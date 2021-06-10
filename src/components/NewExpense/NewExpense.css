@@ -1,0 +1,12 @@
+.new-expense {
+  padding: 1rem;
+  background-color: rgb(157, 157, 226);
+  margin: 2rem auto;
+  width: 60rem;
+  max-width: 95%;
+  border-radius: 0.7rem;
+}
+
+.new-expense__btn {
+  margin: 5px 35%;
+}

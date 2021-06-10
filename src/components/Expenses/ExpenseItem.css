@@ -1,0 +1,27 @@
+.expense-item {
+  background-color: hsl(0, 0%, 44%);
+  margin: 1em 0;
+  padding-right: 1em;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.expense-item__description {
+  width: 80%;
+  margin-left: 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #eee;
+}
+
+.expense-item__price {
+  background-color: hsl(240, 42%, 40%);
+  border-radius: 12px;
+  border: 2px #eee solid;
+  padding: 0.4em;
+  font-size: 24px;
+  font-weight: 700;
+}
